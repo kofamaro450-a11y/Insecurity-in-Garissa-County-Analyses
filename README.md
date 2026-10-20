@@ -73,7 +73,7 @@ notebook for the full discussion.
     └── figures/
 ```
 
-### [Layer A — Original Empirical Research](layer-a-original-research/)
+### [Layer A — Original Empirical Research](https://github.com/kofamaro450-a11y/Insecurity-in-Garissa-County-Analyses/tree/main/Layer-a-original-research)
 
 *Assessment of Kenya's Current Insecurity Challenges: A Case Study of Security
 Challenges in Garissa County.* A genuine mixed-methods study: 397 survey
