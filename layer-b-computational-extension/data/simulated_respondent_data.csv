@@ -1,0 +1,398 @@
+respondent_id,gender,age_category,sub_county,primary_root_cause_theme,perceives_security_improving
+1,Male,36-50,Fafi,Border Issues,0
+2,Female,36-50,Garissa,Border Issues,1
+3,Female,18-35,Lagdera,Ethnic & Clan Conflicts,1
+4,Male,36-50,Garissa,Poverty & Unemployment,1
+5,Male,36-50,Balambala,Border Issues,0
+6,Female,51-65,Balambala,Border Issues,0
+7,Male,36-50,Balambala,Ethnic & Clan Conflicts,1
+8,Male,51-65,Lagdera,Weak Governance,1
+9,Male,36-50,Garissa,Ethnic & Clan Conflicts,0
+10,Female,51-65,Dadaab,Poverty & Unemployment,0
+11,Male,18-35,Balambala,Poverty & Unemployment,0
+12,Female,51-65,Lagdera,Marginalization & Inequality,0
+13,Male,36-50,Lagdera,Weak Governance,1
+14,Male,36-50,Fafi,Border Issues,0
+15,Female,51-65,Dadaab,Ethnic & Clan Conflicts,1
+16,Male,51-65,Garissa,Border Issues,0
+17,Male,36-50,Garissa,Marginalization & Inequality,1
+18,Female,36-50,Balambala,Poverty & Unemployment,0
+19,Female,36-50,Lagdera,Poverty & Unemployment,1
+20,Male,51-65,Lagdera,Marginalization & Inequality,0
+21,Male,18-35,Dadaab,Poverty & Unemployment,1
+22,Female,18-35,Balambala,Poverty & Unemployment,0
+23,Female,36-50,Fafi,Marginalization & Inequality,0
+24,Male,18-35,Dadaab,Ethnic & Clan Conflicts,0
+25,Male,36-50,Fafi,Proximity to Conflict Zones,0
+26,Female,51-65,Dadaab,Proximity to Conflict Zones,0
+27,Male,36-50,Dadaab,Weak Governance,1
+28,Male,36-50,Garissa,Ethnic & Clan Conflicts,1
+29,Male,Above 65,Fafi,Ethnic & Clan Conflicts,0
+30,Female,36-50,Fafi,Remote & Ungoverned Areas,0
+31,Male,36-50,Lagdera,Remote & Ungoverned Areas,0
+32,Female,36-50,Fafi,Poverty & Unemployment,0
+33,Female,36-50,Garissa,Weak Governance,0
+34,Male,36-50,Lagdera,Political Instability,0
+35,Male,36-50,Garissa,Poverty & Unemployment,0
+36,Female,36-50,Lagdera,Poverty & Unemployment,1
+37,Female,36-50,Garissa,Political Instability,1
+38,Male,51-65,Balambala,Border Issues,1
+39,Female,36-50,Fafi,Ethnic & Clan Conflicts,0
+40,Male,36-50,Garissa,Weak Governance,1
+41,Male,36-50,Garissa,Political Instability,0
+42,Female,36-50,Dadaab,Remote & Ungoverned Areas,0
+43,Male,36-50,Lagdera,Weak Governance,1
+44,Female,51-65,Balambala,Poverty & Unemployment,0
+45,Male,36-50,Garissa,Marginalization & Inequality,1
+46,Male,36-50,Dadaab,Poverty & Unemployment,1
+47,Male,36-50,Dadaab,Poverty & Unemployment,0
+48,Male,36-50,Fafi,Border Issues,0
+49,Female,36-50,Garissa,Ethnic & Clan Conflicts,0
+50,Male,36-50,Garissa,Poverty & Unemployment,1
+51,Female,18-35,Fafi,Weak Governance,0
+52,Male,36-50,Fafi,Ethnic & Clan Conflicts,0
+53,Female,18-35,Balambala,Poverty & Unemployment,1
+54,Male,36-50,Balambala,Ethnic & Clan Conflicts,0
+55,Male,36-50,Lagdera,Border Issues,0
+56,Female,36-50,Fafi,Ethnic & Clan Conflicts,0
+57,Male,51-65,Balambala,Border Issues,0
+58,Male,Above 65,Lagdera,Border Issues,0
+59,Male,51-65,Lagdera,Ethnic & Clan Conflicts,0
+60,Male,51-65,Balambala,Marginalization & Inequality,0
+61,Male,36-50,Fafi,Poverty & Unemployment,0
+62,Male,36-50,Garissa,Weak Governance,0
+63,Female,51-65,Fafi,Remote & Ungoverned Areas,0
+64,Male,36-50,Balambala,Proximity to Conflict Zones,1
+65,Female,36-50,Garissa,Poverty & Unemployment,0
+66,Male,36-50,Garissa,Remote & Ungoverned Areas,0
+67,Female,36-50,Garissa,Poverty & Unemployment,1
+68,Female,51-65,Dadaab,Border Issues,0
+69,Male,51-65,Lagdera,Marginalization & Inequality,0
+70,Male,36-50,Lagdera,Ethnic & Clan Conflicts,1
+71,Male,18-35,Fafi,Poverty & Unemployment,0
+72,Male,36-50,Fafi,Proximity to Conflict Zones,0
+73,Female,51-65,Fafi,Border Issues,0
+74,Female,51-65,Fafi,Marginalization & Inequality,0
+75,Male,Above 65,Dadaab,Marginalization & Inequality,0
+76,Female,51-65,Dadaab,Remote & Ungoverned Areas,1
+77,Female,36-50,Dadaab,Political Instability,1
+78,Male,36-50,Fafi,Political Instability,1
+79,Male,18-35,Dadaab,Political Instability,1
+80,Male,18-35,Garissa,Proximity to Conflict Zones,1
+81,Female,36-50,Fafi,Marginalization & Inequality,0
+82,Male,36-50,Balambala,Ethnic & Clan Conflicts,1
+83,Male,51-65,Dadaab,Marginalization & Inequality,0
+84,Male,36-50,Garissa,Marginalization & Inequality,0
+85,Female,18-35,Fafi,Poverty & Unemployment,1
+86,Male,36-50,Garissa,Ethnic & Clan Conflicts,1
+87,Female,Above 65,Fafi,Proximity to Conflict Zones,0
+88,Male,36-50,Garissa,Political Instability,1
+89,Female,51-65,Dadaab,Poverty & Unemployment,1
+90,Male,51-65,Lagdera,Poverty & Unemployment,0
+91,Male,36-50,Balambala,Weak Governance,1
+92,Female,36-50,Lagdera,Political Instability,1
+93,Female,36-50,Garissa,Weak Governance,1
+94,Female,36-50,Balambala,Ethnic & Clan Conflicts,0
+95,Female,51-65,Garissa,Marginalization & Inequality,1
+96,Female,36-50,Balambala,Border Issues,0
+97,Female,36-50,Dadaab,Marginalization & Inequality,1
+98,Male,36-50,Dadaab,Proximity to Conflict Zones,1
+99,Female,36-50,Lagdera,Ethnic & Clan Conflicts,1
+100,Male,36-50,Garissa,Remote & Ungoverned Areas,0
+101,Male,18-35,Balambala,Weak Governance,0
+102,Male,36-50,Garissa,Weak Governance,1
+103,Female,51-65,Fafi,Ethnic & Clan Conflicts,0
+104,Male,18-35,Garissa,Border Issues,1
+105,Male,18-35,Dadaab,Proximity to Conflict Zones,0
+106,Male,Above 65,Balambala,Poverty & Unemployment,0
+107,Female,51-65,Lagdera,Border Issues,1
+108,Female,36-50,Fafi,Poverty & Unemployment,1
+109,Male,36-50,Balambala,Marginalization & Inequality,1
+110,Male,51-65,Dadaab,Marginalization & Inequality,0
+111,Female,36-50,Lagdera,Poverty & Unemployment,1
+112,Female,51-65,Balambala,Marginalization & Inequality,0
+113,Female,51-65,Balambala,Border Issues,0
+114,Male,36-50,Garissa,Ethnic & Clan Conflicts,1
+115,Male,36-50,Dadaab,Marginalization & Inequality,1
+116,Female,36-50,Balambala,Proximity to Conflict Zones,0
+117,Female,51-65,Fafi,Proximity to Conflict Zones,0
+118,Female,18-35,Dadaab,Ethnic & Clan Conflicts,0
+119,Female,36-50,Garissa,Ethnic & Clan Conflicts,1
+120,Male,36-50,Lagdera,Marginalization & Inequality,1
+121,Male,18-35,Balambala,Border Issues,0
+122,Male,51-65,Lagdera,Poverty & Unemployment,0
+123,Male,36-50,Dadaab,Marginalization & Inequality,0
+124,Male,36-50,Balambala,Political Instability,1
+125,Female,Above 65,Lagdera,Weak Governance,0
+126,Female,36-50,Lagdera,Poverty & Unemployment,0
+127,Male,36-50,Dadaab,Weak Governance,0
+128,Female,36-50,Balambala,Remote & Ungoverned Areas,1
+129,Female,36-50,Lagdera,Weak Governance,1
+130,Male,36-50,Lagdera,Remote & Ungoverned Areas,1
+131,Male,Above 65,Dadaab,Ethnic & Clan Conflicts,0
+132,Female,18-35,Garissa,Remote & Ungoverned Areas,1
+133,Male,51-65,Fafi,Poverty & Unemployment,0
+134,Male,36-50,Lagdera,Marginalization & Inequality,0
+135,Female,51-65,Dadaab,Poverty & Unemployment,0
+136,Female,36-50,Garissa,Ethnic & Clan Conflicts,1
+137,Male,36-50,Lagdera,Weak Governance,1
+138,Male,36-50,Garissa,Ethnic & Clan Conflicts,0
+139,Female,36-50,Balambala,Political Instability,0
+140,Male,36-50,Dadaab,Weak Governance,0
+141,Male,36-50,Balambala,Political Instability,1
+142,Female,36-50,Fafi,Proximity to Conflict Zones,1
+143,Female,36-50,Fafi,Ethnic & Clan Conflicts,0
+144,Male,51-65,Fafi,Weak Governance,1
+145,Male,51-65,Garissa,Marginalization & Inequality,1
+146,Male,36-50,Lagdera,Proximity to Conflict Zones,0
+147,Male,36-50,Balambala,Ethnic & Clan Conflicts,1
+148,Male,51-65,Lagdera,Marginalization & Inequality,0
+149,Male,51-65,Balambala,Ethnic & Clan Conflicts,0
+150,Male,18-35,Balambala,Marginalization & Inequality,1
+151,Female,36-50,Balambala,Border Issues,1
+152,Female,51-65,Garissa,Poverty & Unemployment,0
+153,Male,36-50,Lagdera,Proximity to Conflict Zones,1
+154,Male,18-35,Garissa,Poverty & Unemployment,0
+155,Male,Above 65,Dadaab,Weak Governance,0
+156,Male,36-50,Dadaab,Remote & Ungoverned Areas,0
+157,Male,36-50,Lagdera,Weak Governance,1
+158,Male,Above 65,Dadaab,Poverty & Unemployment,0
+159,Female,18-35,Lagdera,Political Instability,0
+160,Female,36-50,Lagdera,Political Instability,1
+161,Male,Above 65,Dadaab,Political Instability,1
+162,Female,51-65,Dadaab,Proximity to Conflict Zones,0
+163,Male,Above 65,Lagdera,Political Instability,0
+164,Male,36-50,Lagdera,Marginalization & Inequality,0
+165,Female,51-65,Garissa,Border Issues,0
+166,Male,51-65,Dadaab,Marginalization & Inequality,1
+167,Male,36-50,Garissa,Ethnic & Clan Conflicts,1
+168,Male,Above 65,Lagdera,Remote & Ungoverned Areas,1
+169,Male,36-50,Fafi,Weak Governance,1
+170,Male,36-50,Balambala,Weak Governance,1
+171,Male,36-50,Garissa,Marginalization & Inequality,0
+172,Male,36-50,Lagdera,Border Issues,0
+173,Male,36-50,Balambala,Border Issues,0
+174,Female,36-50,Garissa,Proximity to Conflict Zones,1
+175,Male,36-50,Fafi,Poverty & Unemployment,0
+176,Male,Above 65,Lagdera,Weak Governance,0
+177,Male,36-50,Dadaab,Proximity to Conflict Zones,0
+178,Male,36-50,Dadaab,Political Instability,0
+179,Male,36-50,Balambala,Ethnic & Clan Conflicts,1
+180,Male,36-50,Fafi,Weak Governance,1
+181,Male,36-50,Garissa,Ethnic & Clan Conflicts,0
+182,Male,36-50,Fafi,Border Issues,0
+183,Male,Above 65,Garissa,Ethnic & Clan Conflicts,1
+184,Male,Above 65,Lagdera,Ethnic & Clan Conflicts,1
+185,Female,51-65,Fafi,Border Issues,0
+186,Female,51-65,Garissa,Weak Governance,0
+187,Male,51-65,Lagdera,Border Issues,1
+188,Male,36-50,Dadaab,Border Issues,0
+189,Male,36-50,Garissa,Marginalization & Inequality,0
+190,Male,Above 65,Dadaab,Marginalization & Inequality,0
+191,Male,36-50,Dadaab,Remote & Ungoverned Areas,0
+192,Female,36-50,Fafi,Ethnic & Clan Conflicts,0
+193,Male,Above 65,Lagdera,Poverty & Unemployment,0
+194,Female,36-50,Fafi,Weak Governance,0
+195,Male,Above 65,Dadaab,Poverty & Unemployment,0
+196,Female,51-65,Lagdera,Ethnic & Clan Conflicts,0
+197,Female,36-50,Garissa,Weak Governance,0
+198,Male,51-65,Balambala,Ethnic & Clan Conflicts,0
+199,Female,36-50,Lagdera,Marginalization & Inequality,1
+200,Female,36-50,Fafi,Ethnic & Clan Conflicts,0
+201,Male,Above 65,Balambala,Ethnic & Clan Conflicts,0
+202,Female,36-50,Balambala,Poverty & Unemployment,0
+203,Male,36-50,Fafi,Proximity to Conflict Zones,0
+204,Male,36-50,Garissa,Proximity to Conflict Zones,0
+205,Male,18-35,Dadaab,Border Issues,0
+206,Female,36-50,Garissa,Poverty & Unemployment,0
+207,Male,51-65,Garissa,Poverty & Unemployment,1
+208,Male,Above 65,Garissa,Political Instability,1
+209,Male,36-50,Fafi,Proximity to Conflict Zones,0
+210,Male,51-65,Lagdera,Poverty & Unemployment,0
+211,Female,36-50,Dadaab,Border Issues,0
+212,Female,36-50,Fafi,Poverty & Unemployment,0
+213,Male,36-50,Dadaab,Ethnic & Clan Conflicts,1
+214,Female,51-65,Lagdera,Political Instability,0
+215,Female,36-50,Fafi,Proximity to Conflict Zones,0
+216,Female,51-65,Lagdera,Ethnic & Clan Conflicts,0
+217,Female,36-50,Balambala,Ethnic & Clan Conflicts,0
+218,Female,51-65,Garissa,Poverty & Unemployment,1
+219,Male,51-65,Balambala,Weak Governance,0
+220,Female,18-35,Lagdera,Ethnic & Clan Conflicts,1
+221,Male,36-50,Balambala,Poverty & Unemployment,1
+222,Male,36-50,Lagdera,Ethnic & Clan Conflicts,0
+223,Male,Above 65,Lagdera,Weak Governance,0
+224,Male,Above 65,Lagdera,Poverty & Unemployment,1
+225,Female,51-65,Balambala,Border Issues,0
+226,Male,18-35,Fafi,Poverty & Unemployment,0
+227,Male,Above 65,Balambala,Political Instability,0
+228,Male,36-50,Dadaab,Ethnic & Clan Conflicts,0
+229,Male,Above 65,Dadaab,Poverty & Unemployment,0
+230,Female,18-35,Lagdera,Border Issues,1
+231,Male,36-50,Balambala,Poverty & Unemployment,0
+232,Male,36-50,Dadaab,Ethnic & Clan Conflicts,0
+233,Female,36-50,Dadaab,Weak Governance,1
+234,Male,Above 65,Balambala,Poverty & Unemployment,0
+235,Female,36-50,Balambala,Political Instability,0
+236,Female,36-50,Dadaab,Weak Governance,1
+237,Female,51-65,Lagdera,Remote & Ungoverned Areas,0
+238,Female,36-50,Fafi,Ethnic & Clan Conflicts,1
+239,Male,36-50,Dadaab,Ethnic & Clan Conflicts,1
+240,Male,36-50,Balambala,Ethnic & Clan Conflicts,1
+241,Female,36-50,Fafi,Poverty & Unemployment,1
+242,Male,36-50,Balambala,Weak Governance,1
+243,Male,36-50,Dadaab,Poverty & Unemployment,1
+244,Female,51-65,Dadaab,Weak Governance,0
+245,Male,36-50,Balambala,Ethnic & Clan Conflicts,0
+246,Female,18-35,Garissa,Ethnic & Clan Conflicts,1
+247,Female,51-65,Dadaab,Marginalization & Inequality,0
+248,Male,36-50,Balambala,Ethnic & Clan Conflicts,1
+249,Female,18-35,Garissa,Poverty & Unemployment,1
+250,Male,51-65,Balambala,Poverty & Unemployment,0
+251,Female,36-50,Garissa,Marginalization & Inequality,1
+252,Male,36-50,Balambala,Political Instability,0
+253,Female,51-65,Garissa,Weak Governance,1
+254,Male,36-50,Fafi,Weak Governance,0
+255,Female,36-50,Garissa,Border Issues,0
+256,Male,36-50,Garissa,Weak Governance,1
+257,Female,18-35,Dadaab,Remote & Ungoverned Areas,0
+258,Male,51-65,Garissa,Border Issues,0
+259,Male,51-65,Balambala,Marginalization & Inequality,0
+260,Male,18-35,Lagdera,Poverty & Unemployment,1
+261,Male,36-50,Balambala,Ethnic & Clan Conflicts,1
+262,Male,36-50,Fafi,Border Issues,0
+263,Male,51-65,Balambala,Poverty & Unemployment,0
+264,Male,36-50,Fafi,Ethnic & Clan Conflicts,0
+265,Female,36-50,Balambala,Border Issues,0
+266,Female,36-50,Lagdera,Remote & Ungoverned Areas,1
+267,Male,Above 65,Dadaab,Ethnic & Clan Conflicts,1
+268,Male,36-50,Dadaab,Political Instability,1
+269,Male,36-50,Lagdera,Marginalization & Inequality,0
+270,Female,18-35,Lagdera,Marginalization & Inequality,1
+271,Female,36-50,Dadaab,Marginalization & Inequality,0
+272,Female,36-50,Garissa,Weak Governance,1
+273,Male,51-65,Garissa,Poverty & Unemployment,1
+274,Male,36-50,Fafi,Political Instability,0
+275,Female,51-65,Fafi,Poverty & Unemployment,1
+276,Male,Above 65,Dadaab,Political Instability,0
+277,Female,18-35,Lagdera,Border Issues,1
+278,Female,36-50,Garissa,Proximity to Conflict Zones,1
+279,Male,18-35,Lagdera,Poverty & Unemployment,1
+280,Female,36-50,Fafi,Poverty & Unemployment,1
+281,Female,51-65,Lagdera,Political Instability,0
+282,Male,36-50,Fafi,Proximity to Conflict Zones,0
+283,Male,Above 65,Fafi,Remote & Ungoverned Areas,0
+284,Female,36-50,Dadaab,Border Issues,0
+285,Male,Above 65,Dadaab,Border Issues,0
+286,Male,51-65,Garissa,Ethnic & Clan Conflicts,1
+287,Male,36-50,Lagdera,Poverty & Unemployment,1
+288,Male,Above 65,Dadaab,Border Issues,0
+289,Male,36-50,Lagdera,Ethnic & Clan Conflicts,1
+290,Male,36-50,Balambala,Marginalization & Inequality,1
+291,Male,36-50,Fafi,Political Instability,0
+292,Female,36-50,Garissa,Poverty & Unemployment,1
+293,Male,Above 65,Balambala,Proximity to Conflict Zones,1
+294,Female,51-65,Fafi,Political Instability,0
+295,Male,36-50,Balambala,Marginalization & Inequality,0
+296,Female,36-50,Garissa,Marginalization & Inequality,0
+297,Male,Above 65,Dadaab,Weak Governance,0
+298,Female,36-50,Fafi,Border Issues,1
+299,Female,36-50,Lagdera,Ethnic & Clan Conflicts,0
+300,Male,51-65,Dadaab,Border Issues,0
+301,Female,36-50,Fafi,Weak Governance,1
+302,Male,36-50,Dadaab,Marginalization & Inequality,1
+303,Male,36-50,Fafi,Ethnic & Clan Conflicts,0
+304,Male,36-50,Balambala,Ethnic & Clan Conflicts,1
+305,Male,36-50,Lagdera,Political Instability,0
+306,Male,18-35,Dadaab,Ethnic & Clan Conflicts,1
+307,Male,36-50,Garissa,Poverty & Unemployment,1
+308,Female,36-50,Garissa,Weak Governance,1
+309,Male,18-35,Balambala,Border Issues,0
+310,Male,36-50,Fafi,Poverty & Unemployment,0
+311,Male,36-50,Dadaab,Remote & Ungoverned Areas,0
+312,Female,51-65,Garissa,Border Issues,0
+313,Female,36-50,Balambala,Remote & Ungoverned Areas,1
+314,Male,Above 65,Fafi,Weak Governance,0
+315,Female,36-50,Balambala,Poverty & Unemployment,0
+316,Female,51-65,Balambala,Poverty & Unemployment,0
+317,Female,18-35,Garissa,Ethnic & Clan Conflicts,1
+318,Male,Above 65,Garissa,Poverty & Unemployment,1
+319,Male,Above 65,Fafi,Border Issues,0
+320,Female,36-50,Balambala,Weak Governance,0
+321,Female,51-65,Fafi,Ethnic & Clan Conflicts,0
+322,Female,18-35,Garissa,Ethnic & Clan Conflicts,0
+323,Female,51-65,Dadaab,Weak Governance,1
+324,Female,51-65,Dadaab,Ethnic & Clan Conflicts,0
+325,Female,36-50,Lagdera,Remote & Ungoverned Areas,0
+326,Female,36-50,Garissa,Border Issues,1
+327,Male,Above 65,Balambala,Proximity to Conflict Zones,0
+328,Male,51-65,Fafi,Proximity to Conflict Zones,0
+329,Male,36-50,Garissa,Weak Governance,0
+330,Male,Above 65,Balambala,Ethnic & Clan Conflicts,0
+331,Male,51-65,Lagdera,Marginalization & Inequality,0
+332,Female,36-50,Garissa,Marginalization & Inequality,0
+333,Female,36-50,Balambala,Ethnic & Clan Conflicts,0
+334,Male,36-50,Balambala,Border Issues,1
+335,Male,36-50,Fafi,Poverty & Unemployment,1
+336,Male,18-35,Fafi,Poverty & Unemployment,1
+337,Male,36-50,Dadaab,Marginalization & Inequality,1
+338,Male,36-50,Balambala,Proximity to Conflict Zones,1
+339,Male,Above 65,Garissa,Border Issues,1
+340,Male,36-50,Lagdera,Marginalization & Inequality,1
+341,Female,36-50,Garissa,Marginalization & Inequality,1
+342,Male,36-50,Dadaab,Marginalization & Inequality,0
+343,Female,36-50,Dadaab,Weak Governance,1
+344,Male,36-50,Lagdera,Marginalization & Inequality,1
+345,Female,36-50,Dadaab,Weak Governance,1
+346,Female,18-35,Lagdera,Political Instability,0
+347,Male,18-35,Fafi,Poverty & Unemployment,1
+348,Female,36-50,Fafi,Weak Governance,0
+349,Male,36-50,Balambala,Political Instability,1
+350,Female,36-50,Fafi,Political Instability,0
+351,Male,51-65,Balambala,Proximity to Conflict Zones,0
+352,Female,36-50,Fafi,Political Instability,0
+353,Female,51-65,Dadaab,Proximity to Conflict Zones,0
+354,Male,36-50,Lagdera,Border Issues,1
+355,Female,36-50,Lagdera,Ethnic & Clan Conflicts,0
+356,Female,51-65,Garissa,Border Issues,1
+357,Female,36-50,Balambala,Weak Governance,1
+358,Female,18-35,Lagdera,Ethnic & Clan Conflicts,1
+359,Male,36-50,Fafi,Poverty & Unemployment,1
+360,Male,36-50,Balambala,Ethnic & Clan Conflicts,1
+361,Male,51-65,Garissa,Border Issues,1
+362,Male,51-65,Lagdera,Weak Governance,0
+363,Female,Above 65,Garissa,Poverty & Unemployment,0
+364,Male,51-65,Lagdera,Marginalization & Inequality,0
+365,Male,51-65,Fafi,Poverty & Unemployment,0
+366,Male,36-50,Dadaab,Marginalization & Inequality,0
+367,Male,36-50,Dadaab,Ethnic & Clan Conflicts,0
+368,Female,36-50,Lagdera,Political Instability,0
+369,Female,18-35,Dadaab,Poverty & Unemployment,0
+370,Female,18-35,Lagdera,Proximity to Conflict Zones,1
+371,Male,36-50,Dadaab,Border Issues,1
+372,Female,36-50,Balambala,Border Issues,0
+373,Male,51-65,Lagdera,Ethnic & Clan Conflicts,0
+374,Female,36-50,Balambala,Marginalization & Inequality,0
+375,Male,51-65,Fafi,Marginalization & Inequality,0
+376,Female,36-50,Fafi,Ethnic & Clan Conflicts,0
+377,Female,36-50,Dadaab,Marginalization & Inequality,0
+378,Female,36-50,Fafi,Marginalization & Inequality,0
+379,Female,36-50,Lagdera,Poverty & Unemployment,0
+380,Male,36-50,Fafi,Ethnic & Clan Conflicts,1
+381,Male,36-50,Garissa,Weak Governance,0
+382,Male,36-50,Fafi,Weak Governance,1
+383,Female,51-65,Fafi,Border Issues,1
+384,Male,36-50,Garissa,Border Issues,0
+385,Female,51-65,Fafi,Weak Governance,0
+386,Male,36-50,Dadaab,Ethnic & Clan Conflicts,1
+387,Female,36-50,Balambala,Political Instability,1
+388,Male,Above 65,Balambala,Ethnic & Clan Conflicts,1
+389,Male,36-50,Dadaab,Ethnic & Clan Conflicts,1
+390,Female,Above 65,Fafi,Marginalization & Inequality,0
+391,Male,36-50,Balambala,Poverty & Unemployment,1
+392,Male,51-65,Fafi,Marginalization & Inequality,0
+393,Male,36-50,Dadaab,Poverty & Unemployment,0
+394,Male,36-50,Garissa,Political Instability,1
+395,Female,36-50,Lagdera,Political Instability,0
+396,Female,51-65,Balambala,Ethnic & Clan Conflicts,0
+397,Male,36-50,Dadaab,Ethnic & Clan Conflicts,1
