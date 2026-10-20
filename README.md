@@ -2,7 +2,7 @@
 Computational extension of my BA thesis on insecurity in Garissa County, Kenya. Not a repeat of the research: a reproducible layer on top of it, with chi-square analysis of the thesis findings, a synthetic-data ML demo, and a real classification on Kenya NCRC crime-perception data.
 # Garissa Insecurity: Research + Computational Extension
 
-*One research project from my portfolio, presented in two layers.*
+*One research project from my research paper, presented in two layers.*
 Ziebi Kofa Maro · BA Political Science, The Catholic University of Eastern Africa
 
 ## Start here
